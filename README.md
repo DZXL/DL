@@ -1,4 +1,1 @@
-# CSCI2470-DL
-# DL
-# DL
-# DL
+# CSCI2470-DL、
